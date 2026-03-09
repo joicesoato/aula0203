@@ -1,0 +1,10 @@
+GET http://localhost:3000/saudacao/joice
+
+###
+
+POST http://localhost:3000/saudacao/
+Content-Type: application/json
+
+{
+    "nome": "Joice Soato"
+}
