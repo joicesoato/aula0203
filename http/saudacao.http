@@ -8,3 +8,13 @@ Content-Type: application/json
 {
     "nome": "Joice Soato"
 }
+
+### 
+
+PUT {{url}}/2
+Content Type: application/json
+
+{
+    "titulo": "Registro alterado",
+    "concluida": "True"
+}
